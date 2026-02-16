@@ -1,0 +1,19 @@
+.vscode
+
+# compiled code
+program
+.DS_STORE
+
+# sample test file
+test.csv
+
+# generated log files
+FCFS.log
+RR.log
+SJF.log
+MLFQ.log
+*-Processes-Analysis.log
+*-Algorithm-Analysis.log
+
+# compiler stuffs
+*.dSYM/
