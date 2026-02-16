@@ -16,4 +16,4 @@ MLFQ.log
 *-Algorithm-Analysis.log
 
 # compiler stuffs
-*.dSYM/
+*.dSYM/scheduler.exe
