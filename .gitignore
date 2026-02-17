@@ -17,3 +17,4 @@ MLFQ.log
 
 # compiler stuffs
 *.dSYM/scheduler.exe
+scheduler.exe
